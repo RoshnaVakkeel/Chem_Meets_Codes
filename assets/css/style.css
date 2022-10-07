@@ -45,8 +45,7 @@ h1, h2{
 /*Cover image and cover text*/
 
 #hero-image {
-    margin: 0 20vw;
-    height:800px;
+    height:500px;
     width: 100%;
     overflow: hidden;
     position: relative;
@@ -55,8 +54,36 @@ h1, h2{
 #cover-image {
     height:500px;
     width: 100%;
+    margin: 0 20vw;
     background: url('../images/Cover_image_bkg.jpg') no-repeat;
     background-size: contain;
+}
+
+#cover-text, #cover-text h2 {
+    color: #ffffff;
+}
+
+#cover-text {
+    font-size: 80%;
+    font-family: Oswald;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+
+    width: 200px;
+    height: 160px;
+
+    padding-top: 15px;
+    padding-left: 10px;
+
+    border-radius: 10%;
+
+    background-color: rgba(52, 155, 141, 0.514);
+
+    bottom: 100px;
+    right: 600px;
+
+    position: absolute;
+
 }
 
 
