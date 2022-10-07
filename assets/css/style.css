@@ -137,3 +137,38 @@ h2 {
     text-align: justify;
     color: #252525;
 }
+
+#mission-statement {
+    padding: 10px;
+}
+
+#chem-intro {
+    padding: 10px;
+    width: 60%;
+    float:left;
+}
+
+#chem-intro h2{
+    font-size: 1.5em;
+}
+
+#comp-intro {
+    padding: 10px;
+    width: 60%;
+    float:right;
+}
+
+#comp-intro h2{
+    font-size: 1.5em;
+}
+
+#comp-chem-intro {
+    padding: 10px;
+    width: 60%;
+    float:left;
+}
+
+#comp-chem-intro h2{
+    font-size: 1.5em;
+}
+
