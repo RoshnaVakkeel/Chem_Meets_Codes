@@ -1,6 +1,35 @@
+@import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
+
+*{
+    margin:0;
+    padding:0;
+    border:0;
+}
+
+body{
+    font-family: Lato, sans-serif;
+    color: #3a3a3a;
+}
+
+/* headings and logo */
 #logo{
     float: left;
-    font-size: 280%;
+    font-size: 250%;
     margin-left: 30px;
 }
+
+h1, h2{
+    font-family: Oswald, sans-serif;
+    text-transform: uppercase;
+    letter-spacing: 2px;
+    color: #3520aa;
+}
+
+
+
+
+
+
+
+
 
