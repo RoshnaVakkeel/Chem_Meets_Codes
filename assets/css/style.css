@@ -25,6 +25,24 @@ h1, h2{
     color: #3520aa;
 }
 
+/* navigation links */
+
+#menu{
+    font-size: 110%;
+    letter-spacing: 2px;
+}
+
+#logo, #menu{
+    line-height: 100px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
+}
+
+
 
 
 
