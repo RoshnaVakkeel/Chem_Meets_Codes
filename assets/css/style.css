@@ -112,7 +112,28 @@ h2 {
 /*Mission and sections*/
 
 #intro {
-    padding-top: 30px;
-    width: 33%;
-    float: left;
+    height: 1200px;
+    margin: 0;
+    padding: 50px;
+    width: 95%;
+    line-height: 20px;
+    clear: both;
+}
+
+#intro h2{
+    font-family: 'Oswald', sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    color: rgb(10, 10, 90);
+}
+
+#intro p {
+    padding: 30px 20px;
+    font-family: 'Calibri', sans-serif;
+    font-size: 1.5em;
+    line-height: 30px;
+    text-align: justify;
+    color: #252525;
 }
