@@ -1,24 +1,25 @@
 @import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
 
-*{
-    margin:0;
-    padding:0;
-    border:0;
+* {
+    margin: 0;
+    padding: 0;
+    border: 0;
 }
 
-body{
+body {
     font-family: Lato, sans-serif;
     color: #3a3a3a;
 }
 
 /* headings and logo */
-#logo{
+#logo {
     float: left;
     font-size: 250%;
     margin-left: 30px;
 }
 
-h1, h2{
+h1,
+h2 {
     font-family: Oswald, sans-serif;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -27,12 +28,13 @@ h1, h2{
 
 /* navigation links */
 
-#menu{
+#menu {
     font-size: 110%;
     letter-spacing: 2px;
 }
 
-#logo, #menu{
+#logo,
+#menu {
     line-height: 100px;
 }
 
@@ -42,24 +44,47 @@ h1, h2{
     margin-right: 30px;
 }
 
+/*footer*/
+
+
+.social-networks{
+    text-align: center;
+    position: fixed;
+    bottom: 0;
+    width: 100%;
+    
+}
+
+.social-networks li{
+    display: inline;
+}
+
+.social-networks i{
+    font-size: 160%;
+    margin: 1%;
+    padding: 5%;
+    color: blue;
+}
+
 /*Cover image and cover text*/
 
 #hero-image {
-    height:500px;
+    height: 500px;
     width: 100%;
     overflow: hidden;
     position: relative;
 }
 
 #cover-image {
-    height:500px;
+    height: 500px;
     width: 100%;
     margin: 0 20vw;
     background: url('../images/Cover_image_bkg.jpg') no-repeat;
     background-size: contain;
 }
 
-#cover-text, #cover-text h2 {
+#cover-text,
+#cover-text h2 {
     color: #ffffff;
 }
 
@@ -69,29 +94,25 @@ h1, h2{
     text-transform: uppercase;
     letter-spacing: 2px;
 
-    width: 200px;
-    height: 160px;
-
-    padding-top: 15px;
-    padding-left: 10px;
-
-    border-radius: 10%;
-
-    background-color: rgba(52, 155, 141, 0.514);
-
     bottom: 100px;
     right: 600px;
 
-    position: absolute;
+    padding-top: 15px;
+    padding-left: 10px;
+    border-radius: 10%;
 
+    width: 200px;
+    height: 160px;
+
+    background-color: rgba(52, 155, 141, 0.5);
+
+    position: absolute;
 }
 
+/*Mission and sections*/
 
-
-
-
-
-
-
-
-
+#intro {
+    padding-top: 30px;
+    width: 33%;
+    float: left;
+}
