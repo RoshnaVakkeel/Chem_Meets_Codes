@@ -24,6 +24,7 @@ h2 {
     text-transform: uppercase;
     letter-spacing: 2px;
     color: #3520aa;
+    padding: 10px;
 }
 
 /* navigation links */
@@ -43,6 +44,47 @@ h2 {
     list-style-type: none;
     margin-right: 30px;
 }
+
+/*intro divisions*/
+
+#intro {
+    margin: 20px;
+}
+
+#intro, p {
+    font-family: 'Calibri', sans-serif;
+    font-size: 1em;
+}
+
+#mission-statement, h2 {
+    font-size: 100%;
+}
+
+#chem-intro {
+    display: flex;
+    flex-direction: row;
+}
+
+#chem-content {
+    width: 100%;
+}
+
+#chem-img {
+    padding-top: 30px;
+    width: 100%;      
+}
+
+#chem-img, img {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
 
 /*footer*/
 
