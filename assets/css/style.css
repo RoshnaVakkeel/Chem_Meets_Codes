@@ -235,7 +235,7 @@ footer {
     text-align: center;
 }
 
-.social-networks>li {
+.social-networks > li {
     display: inline;
 }
 
@@ -250,12 +250,23 @@ footer {
 /*Timeline*/
 
 
+
+
 /*Feedback Form*/
+form {
+    margin: 100px 10% 0 0;
+    color: #fff;
+    background-color: rgba(60, 60, 60, 0.6);
+    max-width: 70%;
+    position: relative;
+    left: 10%;
+    padding: 30px;
+}
 
 #feedback-intro {
-    margin: 100px;
-    clear: both;
+    margin: 80px;
     height: 60px;
+    clear: both;
 }
 
 #feedback-intro, h3 {
@@ -266,13 +277,42 @@ footer {
 #feedback-intro, p {
     font-size: 1.2em;
     text-align: center;
-    padding: 20px 80px;
+    padding: 10px 5%;
 }
 
-#questions{
-    padding: 20px;
+#questions {
+    padding: 30px 5%;
     font-size: 1.2em;
     text-align: center;
-    position:relative;
+    height: 800px;
 }
+
+#interest {
+    inline-size: 30px;
+}
+
+#informative {
+    inline-size: 30px;
+    margin-bottom: 20px;
+}
+
+#satisfaction {
+    inline-size: 30px;
+    margin-bottom: 20px;
+}
+
+#suggestions {
+    border: 1px solid rgb(10, 10, 90);
+    text-align: left;
+    margin-bottom: 10px;
+}
+
+#submit {
+    font-size: 1.2em;
+    color: rgb(11, 11, 100);
+    border: 2px solid black;
+    align-items: center;
+}
+
+
 
