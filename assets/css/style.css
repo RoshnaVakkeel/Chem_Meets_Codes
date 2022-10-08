@@ -27,92 +27,6 @@ h2 {
     padding: 10px;
 }
 
-/* navigation links */
-
-#menu {
-    font-size: 110%;
-    letter-spacing: 2px;
-}
-
-#logo,
-#menu {
-    line-height: 100px;
-}
-
-#menu li {
-    float: right;
-    list-style-type: none;
-    margin-right: 30px;
-}
-
-/*intro divisions*/
-
-#intro {
-    margin: 20px;
-}
-
-.intro-heading {
-    font-size: 100%;
-    text-align: center;
-}
-
-#intro,
-p {
-    font-family: 'Calibri', sans-serif;
-    font-size: 1em;
-}
-
-#mission-statement,
-h2 {
-    font-size: 100%;
-}
-
-#chem-intro {
-    display: flex;
-    flex-direction: row;
-}
-
-#chem-content {
-    width: 100%;
-}
-
-#chem-img {
-    padding-top: 30px;
-    width: 100%;
-}
-
-#chem-img,
-img {
-    width: 100%;
-}
-
-#comp-intro {
-    display: flex;
-    flex-direction: row;
-}
-
-#comp-content {
-    width: 100%;
-}
-
-#comp-img {
-    padding-top: 30px;
-    width: 100%;
-}
-
-#comp-img,
-img {
-    width: 100%;
-}
-
-
-
-
-
-
-
-
-
 /*footer*/
 
 
@@ -133,6 +47,25 @@ img {
     margin: 1%;
     padding: 5%;
     color: blue;
+}
+
+
+/* navigation links */
+
+#menu {
+    font-size: 110%;
+    letter-spacing: 2px;
+}
+
+#logo,
+#menu {
+    line-height: 100px;
+}
+
+#menu li {
+    float: right;
+    list-style-type: none;
+    margin-right: 30px;
 }
 
 /*Cover image and cover text*/
@@ -207,67 +140,110 @@ img {
     color: #252525;
 }
 
-#mission-statement {
+
+#intro {
+    margin: 20px;
+}
+
+.intro-heading {
+    font-size: 80%;
+    text-align: center;
+}
+
+#intro,
+p {
+    font-family: 'Calibri', sans-serif;
+    font-size: 1em;
+}
+
+#mission-statement,
+h2 {
+    font-size: 100%;
     padding: 10px;
 }
 
-/*chemistry introduction*/
-
+/*Chemistry Introduction*/
 #chem-intro {
     padding: 10px;
     height: 450px;
     width: 90vw;
-}
-
-#chem-intro h2 {
-    font-size: 1.5em;
-    padding: 10px;
-    line-height: 30px;
-    text-align: center;
-}
-
-.chem-content {
-    float: left;
-    width: 60%;
     display: flex;
-    padding: 10px;
-    align-items: left;
+    flex-direction: row;
 }
 
-.chem-img {
-    width: 30%;
-    height: 300px;
-    float: right;
+#chem-content {
+    width: 100%;
 }
 
+#chem-img {
+    padding-top: 30px;
+    width: 100%;
+}
+
+#comp-img,
+img {
+    width: 100%;
+}
+
+/*Computer Introduction*/
 #comp-intro {
     padding: 10px;
     height: 450px;
     width: 90vw;
-}
-
-/*computer introduction*/
-
-#comp-intro h2 {
-    font-size: 1.5em;
-    padding: 10px;
-    line-height: 30px;
-    text-align: center;
-}
-
-.comp-content {
-    float: right;
-    width: 60%;
     display: flex;
+    flex-direction: row;
+}
+
+#comp-content {
+    width: 100%;
+}
+
+#comp-img {
+    padding-top: 30px;
+    width: 100%;
+}
+
+#comp-img,
+img {
+    width: 100%;
+}
+
+/*Computational Chemistry Introduction*/
+
+#compchem-intro {
     padding: 10px;
-    align-items: left;
+    height: 450px;
+    width: 90vw;
+    display: flex;
+    flex-direction: row;
 }
 
-.comp-img {
-    width: 30%;
-    height: 300px;
-    float: left;
+#compchem-content {
+    width: 100%;
 }
 
-/*Computational Chemistry*/
+#compchem-img {
+    padding-top: 30px;
+    width: 100%;
+}
+
+#compchem-img,
+img {
+    width: 100%;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
