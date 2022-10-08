@@ -51,12 +51,19 @@ h2 {
     margin: 20px;
 }
 
-#intro, p {
+.intro-heading {
+    font-size: 100%;
+    text-align: center;
+}
+
+#intro,
+p {
     font-family: 'Calibri', sans-serif;
     font-size: 1em;
 }
 
-#mission-statement, h2 {
+#mission-statement,
+h2 {
     font-size: 100%;
 }
 
@@ -71,10 +78,30 @@ h2 {
 
 #chem-img {
     padding-top: 30px;
-    width: 100%;      
+    width: 100%;
 }
 
-#chem-img, img {
+#chem-img,
+img {
+    width: 100%;
+}
+
+#comp-intro {
+    display: flex;
+    flex-direction: row;
+}
+
+#comp-content {
+    width: 100%;
+}
+
+#comp-img {
+    padding-top: 30px;
+    width: 100%;
+}
+
+#comp-img,
+img {
     width: 100%;
 }
 
@@ -89,19 +116,19 @@ h2 {
 /*footer*/
 
 
-.social-networks{
+.social-networks {
     text-align: center;
     position: fixed;
     bottom: 0;
     width: 100%;
-    
+
 }
 
-.social-networks li{
+.social-networks li {
     display: inline;
 }
 
-.social-networks i{
+.social-networks i {
     font-size: 160%;
     margin: 1%;
     padding: 5%;
@@ -151,7 +178,7 @@ h2 {
     position: absolute;
 }
 
-/*Mission and sections*/
+/*Mission and introductary sections*/
 
 #intro {
     height: 1200px;
@@ -162,7 +189,7 @@ h2 {
     clear: both;
 }
 
-#intro h2{
+#intro h2 {
     font-family: 'Oswald', sans-serif;
     font-size: 2em;
     text-transform: uppercase;
@@ -184,13 +211,15 @@ h2 {
     padding: 10px;
 }
 
-#chem-intro {   
+/*chemistry introduction*/
+
+#chem-intro {
     padding: 10px;
-    height: 600px;
+    height: 450px;
     width: 90vw;
 }
 
-#chem-intro h2{
+#chem-intro h2 {
     font-size: 1.5em;
     padding: 10px;
     line-height: 30px;
@@ -200,7 +229,7 @@ h2 {
 .chem-content {
     float: left;
     width: 60%;
-    display:flex;
+    display: flex;
     padding: 10px;
     align-items: left;
 }
@@ -211,30 +240,34 @@ h2 {
     float: right;
 }
 
-
-/* 
-
 #comp-intro {
     padding: 10px;
-    width: 60%;
-    float:right;
+    height: 450px;
+    width: 90vw;
 }
 
-#comp-intro h2{
+/*computer introduction*/
+
+#comp-intro h2 {
     font-size: 1.5em;
-}
-
-
-
-
-#comp-chem-intro {
     padding: 10px;
+    line-height: 30px;
+    text-align: center;
+}
+
+.comp-content {
+    float: right;
     width: 60%;
-    float:left;
+    display: flex;
+    padding: 10px;
+    align-items: left;
 }
 
-#comp-chem-intro h2{
-    font-size: 1.5em;
+.comp-img {
+    width: 30%;
+    height: 300px;
+    float: left;
 }
 
-*/
+/*Computational Chemistry*/
+
