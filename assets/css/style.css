@@ -103,7 +103,7 @@ h3 {
 /*Mission and introductary sections*/
 
 #intro {
-    height: 2000px;
+    height: 2500px;
     margin: 0;
     padding: 50px;
     width: 95%;
@@ -204,7 +204,7 @@ img {
 
 #compchem-intro {
     padding: 10px;
-    height: 450px;
+    height: 700px;
     width: 90vw;
     display: flex;
     flex-direction: row;
@@ -221,7 +221,7 @@ img {
 
 #compchem-img,
 img {
-    width: 100%;
+    width: 70%;
 }
 
 /*Impact and Importance*/
@@ -235,6 +235,7 @@ img {
     line-height: 30px;
     text-align: justify;
     color: #252525;
+    clear: both;
 }
 
 
