@@ -14,8 +14,17 @@ body {
 /* headings and logo */
 #logo {
     float: left;
-    font-size: 250%;
+    font-size: 150%;
     margin-left: 30px;
+    
+}
+
+#logo-img {
+    display: flex;
+    flex-direction: column;
+    margin-left: 100px;
+    margin-top: 10px;
+    width: 8%;
 }
 
 h1,
@@ -36,9 +45,11 @@ h3 {
     letter-spacing: 2px;
 }
 
-#logo,
+#logo{
+    line-height: 30px;
+}
 #menu {
-    line-height: 100px;
+    line-height: 10px;
 }
 
 #menu li {
