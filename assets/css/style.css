@@ -270,7 +270,7 @@ footer {
 /*Timeline*/
 
 #timeline-intro {
-    height: 2500px;
+    height: 100px;
     margin: 0;
     padding: 20px;
     width: 100%;
@@ -295,6 +295,10 @@ footer {
     line-height: 30px;
     text-align: center;
     color: #252525;
+}
+
+#coding-timeline {
+
 }
 
 
