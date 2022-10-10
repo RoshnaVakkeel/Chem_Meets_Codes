@@ -157,13 +157,13 @@ p {
 /*Chemistry Introduction*/
 #chem-intro {
     height: 550px;
-    width: 100%;
+    width: 95%;
     display: flex;
     flex-direction: row;
 }
 
 #chem-content {
-    width: 180%;
+    width: 150%;
 }
 
 #chem-img {
@@ -174,7 +174,7 @@ p {
 
 #chem-img,
 img {
-    width: 100%;
+    width: 80%;
 }
 
 
@@ -207,14 +207,14 @@ img {
 
 #compchem-intro {
     padding: 10px;
-    height: 700px;
+    height: 550px;
     width: 95%;
     display: flex;
     flex-direction: row;
 }
 
 #compchem-content {
-    width: 150%;
+    width: 120%;
 }
 
 #compchem-img {
@@ -224,7 +224,7 @@ img {
 
 #compchem-img,
 img {
-    width: 70%;
+    width: 100%;
 }
 
 /*Impact and Importance*/
@@ -232,7 +232,7 @@ img {
 
 #impact li {
     list-style-type: square;
-    margin-right: 30px;
+    margin: 30px;
     font-family: 'Calibri', sans-serif;
     font-size: 1.5em;
     line-height: 30px;
