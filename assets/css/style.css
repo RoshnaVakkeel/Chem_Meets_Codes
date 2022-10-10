@@ -265,8 +265,37 @@ footer {
 }
 
 
+
+
 /*Timeline*/
 
+#timeline-intro {
+    height: 2500px;
+    margin: 0;
+    padding: 20px;
+    width: 100%;
+    line-height: 20px;
+    clear: both;
+}
+
+#timeline-intro h2 {
+    font-family: 'Oswald', sans-serif;
+    font-size: 1.5em;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    color: rgb(10, 10, 90);
+}
+
+#timeline-intro h3 {
+    padding: 20px;
+    font-family: 'Calibri', sans-serif;
+    font-size: 1.2em;
+    text-transform: uppercase;
+    line-height: 30px;
+    text-align: center;
+    color: #252525;
+}
 
 
 
