@@ -16,7 +16,7 @@ body {
     float: left;
     font-size: 150%;
     margin-left: 30px;
-    
+
 }
 
 #logo-img {
@@ -45,9 +45,10 @@ h3 {
     letter-spacing: 2px;
 }
 
-#logo{
+#logo {
     line-height: 30px;
 }
+
 #menu {
     line-height: 10px;
 }
@@ -149,6 +150,7 @@ h2 {
     font-size: 100%;
     padding: 10px;
 }
+
 #mission-statement,
 p {
     width: 95%;
@@ -194,7 +196,7 @@ img {
 #comp-img {
     padding-top: 50px;
     width: 100%;
-    
+
 }
 
 #comp-img,
@@ -253,7 +255,7 @@ footer {
     text-align: center;
 }
 
-.social-networks > li {
+.social-networks>li {
     display: inline;
 }
 
@@ -270,16 +272,27 @@ footer {
 /*Timeline*/
 
 #timeline-intro {
-    height: 100px;
-    margin: 0;
+    height: 120px;
     padding: 20px;
-    width: 100%;
-    line-height: 20px;
+    width: 95%;
+    line-height: 30px;
     clear: both;
 }
 
+#timeline-intro p{
+    font-size: 1.5em;
+    text-align: center;
+    width: 90%;
+}
+
 #timeline-intro h2 {
-    font-family: 'Oswald', sans-serif;
+    font-size: 2em;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    color: rgb(10, 10, 90);
+}
+#chem-comp-timeline h2 {
     font-size: 1.5em;
     text-transform: uppercase;
     text-align: center;
@@ -287,18 +300,34 @@ footer {
     color: rgb(10, 10, 90);
 }
 
-#timeline-intro h3 {
-    padding: 20px;
-    font-family: 'Calibri', sans-serif;
-    font-size: 1.2em;
-    text-transform: uppercase;
-    line-height: 30px;
-    text-align: center;
-    color: #252525;
+#chem-comp-timeline p {
+    font-size: 1.5em;
+    text-align: justify;
+    width: 90%;
 }
 
-#coding-timeline {
+#chem-comp-timeline {
+    height: 200px;
+}
 
+#coding-timeline h2{
+    font-size: 1.5em;
+    text-transform: uppercase;
+    text-align: center;
+    letter-spacing: 2px;
+    color: rgb(10, 10, 90);
+}
+#coding-timeline p {
+    font-size: 1.5em;
+    text-align: justify;
+    width: 90%;
+}
+
+#coding-timeline
+img {
+    padding: 30px;
+    width: 95%;
+    margin-left: 30px;
 }
 
 
@@ -320,12 +349,14 @@ form {
     clear: both;
 }
 
-#feedback-intro, h3 {
+#feedback-intro,
+h3 {
     font-size: 1.5em;
     text-align: center;
 }
 
-#feedback-intro, p {
+#feedback-intro,
+p {
     font-size: 1.2em;
     text-align: center;
     padding: 10px 5%;
@@ -362,8 +393,5 @@ form {
     font-size: 1.2em;
     color: rgb(11, 11, 100);
     border: 2px solid black;
-    
+
 }
-
-
-
