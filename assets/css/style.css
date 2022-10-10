@@ -105,8 +105,8 @@ h3 {
 #intro {
     height: 2500px;
     margin: 0;
-    padding: 50px;
-    width: 95%;
+    padding: 20px;
+    width: 100%;
     line-height: 20px;
     clear: both;
 }
@@ -128,7 +128,6 @@ h3 {
     text-align: justify;
     color: #252525;
 }
-
 
 #intro {
     margin: 10px;
@@ -152,52 +151,56 @@ h2 {
 }
 #mission-statement,
 p {
-    width: 96%;
+    width: 95%;
 }
 
 /*Chemistry Introduction*/
 #chem-intro {
-    height: 600px;
-    width: 90vw;
+    height: 550px;
+    width: 100%;
     display: flex;
     flex-direction: row;
 }
 
 #chem-content {
-    width: 100%;
+    width: 180%;
 }
 
 #chem-img {
     padding-top: 30px;
     width: 100%;
+    object-fit: cover;
 }
 
 #chem-img,
 img {
-    width: 70%;
+    width: 100%;
 }
+
 
 /*Computer Introduction*/
 #comp-intro {
     padding: 10px;
     height: 550px;
-    width: 90vw;
+    width: 95%;
     display: flex;
     flex-direction: row;
 }
 
 #comp-content {
-    width: 100%;
+    width: 180%;
 }
 
 #comp-img {
     padding-top: 50px;
     width: 100%;
+    
 }
 
 #comp-img,
 img {
-    width: 80%;
+    width: 100%;
+    object-fit: cover;
 }
 
 /*Computational Chemistry Introduction*/
@@ -205,13 +208,13 @@ img {
 #compchem-intro {
     padding: 10px;
     height: 700px;
-    width: 90vw;
+    width: 95%;
     display: flex;
     flex-direction: row;
 }
 
 #compchem-content {
-    width: 100%;
+    width: 150%;
 }
 
 #compchem-img {
