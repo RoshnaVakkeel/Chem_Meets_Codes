@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald|Lato:300');
+@import url('https://fonts.googleapis.com/css?family=Oswald');
 
 * {
     margin: 0;
@@ -21,6 +21,17 @@ h3 {
     padding: 10px;
 }
 
+p {
+    padding: 20px;
+    font-family: 'Calibri', sans-serif;
+    font-size: 1.1em;
+    line-height: 30px;
+    text-align: justify;
+    color: #252525;
+}
+
+
+
 /* headings and logo */
 
 
@@ -30,12 +41,14 @@ header {
     justify-content: center;
     align-items: center;
 }
+
 #logo {
     display: inline-flex;
     flex-direction: row;
     justify-content: center;
     align-items: center;
-    font-size: 120%;
+    font-size: 150%;
+    text-decoration: none;
 }
 
 #logo-img {
@@ -45,29 +58,32 @@ header {
 
 /* navigation links */
 
-nav a{
+nav a {
     text-decoration: none;
     color: inherit;
 }
 
-#menu a:hover{
+#menu a:hover {
     border-bottom: 1px solid black;
 }
 
-#menu, nav {
+#menu,
+nav {
     font-size: 100%;
     letter-spacing: 2px;
     font-weight: 700;
     word-spacing: 8px;
 }
 
-#menu, ul {
+#menu,
+ul {
     display: flex;
     flex-direction: row;
-    
+
 }
 
-#menu, li {
+#menu,
+li {
     list-style-type: none;
     display: inline-block;
 }
@@ -107,7 +123,7 @@ nav a{
     position: absolute;
 }
 
-#cover-text> h2:hover{
+#cover-text>h2:hover {
     color: rgba(0, 238, 255, 0.644);
 }
 
@@ -132,13 +148,10 @@ nav a{
 #intro p {
     padding: 20px;
     font-family: 'Calibri', sans-serif;
-    font-size: 1.5em;
+    font-size: 1.2em;
     line-height: 30px;
     text-align: justify;
     color: #252525;
-}
-
-#intro {
 }
 
 .intro-heading {
@@ -149,7 +162,7 @@ nav a{
 #intro,
 p {
     font-family: 'Calibri', sans-serif;
-    font-size: 1em;
+    font-size: 1.2em;
 }
 
 #mission-statement,
@@ -220,7 +233,7 @@ img {
 }
 
 #compchem-content {
-    width: 120%;
+    width: 100%;
 }
 
 #compchem-img {
@@ -235,15 +248,19 @@ img {
 
 /*Impact and Importance*/
 
+#impact {
+    width:90%;
+    display: block;
+}
 
-#impact li {
+#impact>li {
     list-style-type: square;
     font-family: 'Calibri', sans-serif;
-    font-size: 1.5em;
+    font-size: 1.2em;
     line-height: 30px;
     text-align: justify;
     color: #252525;
-    clear: both;
+    width: 90%;
 }
 
 
@@ -255,6 +272,8 @@ footer {
 
 .social-networks {
     text-align: center;
+    display: flex;
+    flex-direction: row;
 }
 
 .social-networks>li {
@@ -280,8 +299,8 @@ footer {
     clear: both;
 }
 
-#timeline-intro p{
-    font-size: 1.5em;
+#timeline-intro p {
+    font-size: 1.2em;
     text-align: center;
     width: 90%;
 }
@@ -293,6 +312,7 @@ footer {
     letter-spacing: 2px;
     color: rgb(10, 10, 90);
 }
+
 #chem-comp-timeline h2 {
     font-size: 1.5em;
     text-transform: uppercase;
@@ -302,7 +322,7 @@ footer {
 }
 
 #chem-comp-timeline p {
-    font-size: 1.5em;
+    font-size: 1.2em;
     text-align: justify;
     width: 90%;
 }
@@ -311,21 +331,21 @@ footer {
     height: 200px;
 }
 
-#coding-timeline h2{
+#coding-timeline h2 {
     font-size: 1.5em;
     text-transform: uppercase;
     text-align: center;
     letter-spacing: 2px;
     color: rgb(10, 10, 90);
 }
+
 #coding-timeline p {
     font-size: 1.5em;
     text-align: justify;
     width: 90%;
 }
 
-#coding-timeline
-img {
+#coding-timeline img {
     padding: 30px;
     width: 95%;
     margin-left: 30px;
