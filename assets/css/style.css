@@ -45,13 +45,30 @@ header {
 
 /* navigation links */
 
+nav a{
+    text-decoration: none;
+    color: inherit;
+}
+
+#menu a:hover{
+    border-bottom: 1px solid black;
+}
+
 #menu, nav {
-    font-size: 110%;
+    font-size: 100%;
     letter-spacing: 2px;
+    font-weight: 700;
+}
+
+#menu, ul {
+    display: flex;
+    flex-direction: row;
+    
 }
 
 #menu, li {
     list-style-type: none;
+    display: inline-block;
 }
 
 /*Cover image and cover text*/
