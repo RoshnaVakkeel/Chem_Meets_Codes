@@ -54,4 +54,21 @@ This website is created purely using HTML5 and CSS3.
 <br>
 <br>
 <h2 style="font-style: 'Calibri';"><strong>CONTENTS</strong></h2>
-The website features three webpages. First page is <a href="index.html">Homepage</a>, which is also the landing page. As it is a history based website, another webpage featuring <a href="timeline.html">Timeline</a> is included. As this is an attempt to bring two mega giants of fields together. This website has a scope of contantly to be updated, which is enormous. That is why a third webpage <a href="feedback.html">Feedback</a> is included. Visitors to the website can enter their feedback and comments, referring to which further updates can be regularly included in the website.
+
+The website features three webpages (can be found in the navigation menu featured on the upper right hand corner of each page). First page is <a href="index.html">Homepage</a>, which is also the landing page. As it is a history based website, another webpage featuring <a href="timeline.html">Timeline</a> is included. As this is an attempt to bring two mega giants of fields together. This website has a scope of contantly to be updated, which is enormous. That is why a third webpage <a href="feedback.html">Feedback</a> is included. Visitors to the website can enter their feedback and comments, referring to which further updates can be regularly included in the website.
+
+<br>
+<h2 style="font-style: 'Calibri';"><strong>Logo and Image</strong></h2>
+Logo and the image features the chemistry  
+<img src= "../assets/images/Logo.png">
+
+<br>
+<a href="index.html">HOMEPAGE</a>
+Homepage is distributed into different sections. First section "Mission" talks about the aim of the website.
+The following sections are introductary sections providing the glimpse into the aspects of the the two giants Chemistry and Computers.
+<br>
+<a href="timeline.html">Timeline<a>
+<br>
+<a href="feedback.html">Feedback<a>
+
+<h3 style="font-style: 'Calibri';"><strong>Homepage</strong></h2>
