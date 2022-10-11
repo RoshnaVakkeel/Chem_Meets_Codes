@@ -160,9 +160,12 @@ p {
     font-size: 1.2em;
 }
 
-#mission-statement,
-p {
+#mission-statement{
     width: 95%;
+}
+
+#mission-statement> img{
+    width: 60%;
 }
 
 /*Chemistry Introduction*/
@@ -176,8 +179,7 @@ p {
     width: 100%;
 }
 
-#chem-img>
-img {
+#chem-img>img {
     width: 100%;
 }
 
@@ -192,7 +194,7 @@ img {
     width: 100%;
 }
 
-#comp-img> img {
+#comp-img>img {
     width: 100%;
     object-fit: cover;
 }
@@ -208,15 +210,16 @@ img {
     width: 100%;
 }
 
-#compchem-img> img {
+#compchem-img>img {
     width: 90%;
 }
 
 /*Impact and Importance*/
 
 #impact {
-        width: 95%;
+    width: 95%;
 }
+
 #impact {
     padding: 10px;
     display: flex;
@@ -227,7 +230,7 @@ img {
     width: 100%;
 }
 
-#impact-img> img {
+#impact-img>img {
     width: 80%;
 }
 
@@ -236,23 +239,23 @@ img {
 
 #footer {
     display: flex;
-    align-items:center;
+    align-items: center;
     justify-content: center;
     text-align: center;
     width: 100%;
     background-color: silver;
     padding: 2em;
     margin-top: 30px;
-    box-sizing:border-box;
+    box-sizing: border-box;
 }
 
-.social-networks li{
-        padding: 0 0.5em;
-        margin-bottom: 0.5em;
-        display: inline-block;
+.social-networks li {
+    padding: 0 0.5em;
+    margin-bottom: 0.5em;
+    display: inline-block;
 }
 
-.social-networks i{
+.social-networks i {
     font-size: 180%;
     padding: 5%;
     color: #3a3a3a;
