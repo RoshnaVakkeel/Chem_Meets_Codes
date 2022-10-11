@@ -24,7 +24,7 @@ h3 {
 p {
     padding: 20px;
     font-family: 'Calibri', sans-serif;
-    font-size: 1.1em;
+    font-size: 1em;
     line-height: 30px;
     text-align: justify;
     color: #252525;
@@ -143,7 +143,7 @@ li {
 #intro p {
     padding: 20px;
     font-family: 'Calibri', sans-serif;
-    font-size: 1.1em;
+    font-size: 1em;
     text-align: justify;
 }
 
@@ -359,4 +359,21 @@ p {
 /* Media queries */
 
 /* For large to medium screens sizes from 1200px wide and down */
-@media screen and (max-width: 1200px) {}
+@media screen and (max-width: 1200px) {
+    #cover-text {
+        left: 300px;
+    }
+
+    #chem-intro {
+        flex-direction: column;
+    }
+    #comp-intro {
+        flex-direction: column;
+    }
+    #compchem-intro {
+        flex-direction: column;
+    }
+    #impact {
+        flex-direction: column;
+    }
+}
