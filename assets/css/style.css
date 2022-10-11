@@ -58,6 +58,7 @@ nav a{
     font-size: 100%;
     letter-spacing: 2px;
     font-weight: 700;
+    word-spacing: 8px;
 }
 
 #menu, ul {
@@ -104,6 +105,10 @@ nav a{
     background-color: rgba(52, 155, 141, 0.5);
 
     position: absolute;
+}
+
+#cover-text> h2:hover{
+    color: rgba(0, 238, 255, 0.644);
 }
 
 /*Mission and introductary sections*/
