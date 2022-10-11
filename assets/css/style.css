@@ -34,7 +34,6 @@ p {
 
 /* headings and logo */
 
-
 header {
     display: flex;
     flex-direction: row;
@@ -45,7 +44,6 @@ header {
 #logo {
     display: inline-flex;
     flex-direction: row;
-    justify-content: center;
     align-items: center;
     font-size: 150%;
     text-decoration: none;
@@ -133,7 +131,7 @@ li {
 
 #intro {
     padding: 20px;
-    width: 100%;
+    width: 95%;
     line-height: 20px;
     clear: both;
 }
@@ -160,27 +158,23 @@ p {
     font-size: 1.2em;
 }
 
-#mission-statement{
-    width: 95%;
-}
-
 #mission-statement> img{
     width: 60%;
 }
 
 /*Chemistry Introduction*/
 #chem-intro {
-    width: 95%;
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 #chem-content {
     width: 100%;
 }
 
-#chem-img>img {
-    width: 100%;
+#chem-img> img {
+    width: 90%;
 }
 
 
@@ -188,15 +182,15 @@ p {
 #comp-intro {
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 #comp-content {
     width: 100%;
 }
 
-#comp-img>img {
+#comp-img> img {
     width: 100%;
-    object-fit: cover;
 }
 
 /*Computational Chemistry Introduction*/
@@ -204,6 +198,7 @@ p {
 #compchem-intro {
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 #compchem-content {
@@ -211,19 +206,15 @@ p {
 }
 
 #compchem-img>img {
-    width: 90%;
+    width: 100%;
 }
 
 /*Impact and Importance*/
 
 #impact {
-    width: 95%;
-}
-
-#impact {
-    padding: 10px;
     display: flex;
     flex-direction: row;
+    align-items: center;
 }
 
 #impact-content {
@@ -231,7 +222,7 @@ p {
 }
 
 #impact-img>img {
-    width: 80%;
+    width: 90%;
 }
 
 
