@@ -275,6 +275,12 @@ p {
     width: 90%;
 }
 
+#chem-comp-timeline img {
+    display: block;
+    margin: 0 auto;
+    width: 90%;
+}
+
 #coding-timeline h2 {
     font-size: 1.5em;
     text-align: center;
