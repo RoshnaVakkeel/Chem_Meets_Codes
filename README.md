@@ -64,8 +64,8 @@ Logo and the image features the chemistry
 
 <br>
 <a href="index.html">HOMEPAGE</a>
-Homepage is distributed into different sections. First section "Mission" talks about the aim of the website.
-The following sections are introductary sections providing the glimpse into the aspects of the the two giants Chemistry and Computers.
+Homepage is distributed into different sections. First section "Mission" talks about the aim of the website that is to ""
+The following sections are introductary sections of the the two giants Chemistry and Computers.
 <br>
 <a href="timeline.html">Timeline<a>
 <br>
