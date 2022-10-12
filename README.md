@@ -12,7 +12,7 @@ This website attempts to give you a glimpse into how two totally unrelated field
 <p><strong>CHEM MEETS CODES </strong> is much like my own story - "A Chemist learning to Code". 
 The word Chemist is a misnomer to define me, while the area of research as a Chemist often spans several disciplines these days. My experience ranges from Synthetic Organic Chemistry, Bio-organic Chemistry, Supramolecular Chemistry, Biomaterials to Cell Biology. This shows that no single subject defines our field of study today. It is an era of <i>"Interdisciplinarity/ Interdisciplinary Studies"</i>. No research project exists today that doesn't tow the same line or speak one language. So are the Techies, so many different programming languages co-existing brilliantly to get to a higher goal usually termed <i>Website, App or Software</i>, just to name a few. Chemists use often without how so many powerful and brilliantly engineered softwares are built. And so is it with the Coders/ Programmers who are unaware of the scientific fields Computers and the languages built have transformed. 
 <br>
-This website tries to bring the stories of two worlds together and attempts to show how their timelines progressed. It is incomplete and a work in progress. Many more stories can be added to this. But let us learn some HISTORY together!!
+This website tries to bring the stories of two worlds together and attempts to show how their timelines progressed. It is a work in progress and provides an introduction to the history of the two constantly progressing fields.
 </p>
 <br>
 <br>
