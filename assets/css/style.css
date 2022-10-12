@@ -163,6 +163,12 @@ p {
     width: 60%;
 }
 
+video {
+    width: 35%;
+    height: auto;
+    padding-bottom: 50px;
+  }
+
 /*Chemistry Introduction*/
 #chem-intro {
     display: flex;
@@ -361,6 +367,10 @@ p {
 
 /* For large to medium screens sizes from 1200px wide and down */
 @media screen and (max-width: 1200px) {
+    #menu{
+        flex-direction: column;
+    }
+
     #cover-text {
         left: 300px;
     }
@@ -380,4 +390,24 @@ p {
     #impact {
         flex-direction: column;
     }
+}
+
+/* For medium screens sizes from 950px wide and down */
+@media screen and (max-width: 950px) {
+
+    #cover-text {
+        left: 250px;
+    }
+    .intro-heading>h2 {
+        font-size: 25px;
+    }
+    #mission-statement>img {
+        width: 80%;
+        padding-left: 50px;
+    }
+    video {
+        width: 50%;
+        height: auto;
+        padding-left: 100px;
+      }
 }
