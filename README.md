@@ -91,7 +91,12 @@ Font-family= Roboto Condensed:400,700 for all headings.
 </ul>
 <br>
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">VALIDATION AND TESTING</h2>
-<p>To test compliance with HTML standards, the W3C Markup Validation Service was used. Here are the results for all files.</p>
+<p>To test compliance with HTML standards, the <a href= "https://validator.w3.org/">W3C Markup Validation Service</a> was used. </p>
+<p><a href= "file:///D:/CODE%20INSTITUTE%20course/Portfolio%20Project%201%20HTML%20CSS/FINAL%20FILES/FINAL%20Validation%20check/W3C_CSS_check.html">Result of CSS validation</p>
+
+
+
+
 
 
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">CREDITS</h2>
