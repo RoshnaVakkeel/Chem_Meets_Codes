@@ -14,17 +14,17 @@ The word Chemist is a misnomer to define me, while the area of research as a Che
 <br>
 This website tries to bring the stories of two worlds together and attempts to show how their timelines progressed. It is a work in progress and provides an introduction to the history of the two constantly progressing fields.
 </p>
-<br>
+
 <br>
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">INTRODUCTION</h2>
 A history based website displaying how programming languages and computational chemistry evolved over the last decade. The website provides the details on the timeline of the new field "computer-aided drug design (CADD)" emerged and advanced with the programming language and Information Technology Evolution. And how it has impacted our lives, and its importance in the present and future. 
 <br>
-<br>
+
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600";>DESCRIPTION</h2>
 <p text-align: justify>Chem Meets Codes is a website developed broadly for students, computational research enthusiasts and IT application enthusiasts. Website discusses the topic of Structural evolution in Chemistry and  Programming Language evolution in Computers. Thus, it would be appealing to students and researchers with a biological/chemical as well as a computational background. Topics are planned to be continuously expanded and open for contributions from the community. 
 </p>
 <br>
-<br>
+
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">DESIGN</h2>
 <h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">WEBSITE STRUCTURE</h3>
 <p>The website features three webpages (can be found in the navigation menu featured on the upper right hand corner of each page). First page is <a href="index.html">Homepage</a>, which is also the landing page. As it is a history based website, another webpage featuring <a href="timeline.html">Timeline</a> is included. As this is an attempt to bring two mega giants of fields together. This website has a scope of contantly to be updated, which is enormous. That is why a third webpage <a href="feedback.html">Feedback</a> is included. Visitors to the website can enter their feedback and comments, referring to which further updates can be regularly included in the website.
@@ -35,12 +35,13 @@ A history based website displaying how programming languages and computational c
 <p>Logo and the image features the codes create the softwares that facilitate the design of modern day drugs. The monitor or a desktop suggests that all the planning and design happens inside a computer,</p>
 <img src= "assets/images/Logo.png" style= "width: 50%;">
 <br>
-<br>
+
 <h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">TYPOGRAPHY</h3>
 Google Fonts was used for the following fonts: was used for the following fonts: 
 Font-family= Cabin, ffor all the paragraphs and normal text.
 Font-family= Roboto Condensed:400,700 for all headings.
 <br>
+
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">RESPONSIVE DESIGN</h2>
 <ul>
     <li>The layout Home/index.html utilises Flex styling for responsiveness.</li>
@@ -52,11 +53,21 @@ Font-family= Roboto Condensed:400,700 for all headings.
 <h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">PROGRAMMING LANGUAGES</h3>
 <p>This website is created purely using HTML5 and CSS3.</p>
 <br>
-<br>
+
 <h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">WIREFRAMES</h3>
 <p>To model the webpages and to better design the User Interfaces, Wireframes were created for the website using <a href="https://balsamiq.com/"> Balsamiq</a>.</p>
 <img src= "assets/docs/Balsamic_wireframe.png">
 <br>
+
+<h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">DEVELOPMENT</h2>
+<p> GitHub pages were used to deploy the site.</p>
+<p>The steps to activate Github pages:</p>
+<ul>
+    <li>First the repository was created using the gitpod template provided by the Code Insitute.</li>
+    <li>Using the command <i>git add <filename></i>, the changes are staged to be pushed into the repository and staged changes are committed tp the local repository using <i>git commit -m 'short descriptive message'.</i></li>
+    <li>Using <i>git push</i>, the changes are updated in the repository.</li>
+    <li> Github automatically deploys my latest commit from the 'main' branch to the Github pages.</li>
+</ul>
 
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">DEPLOYMENT</h2>
 <p> GitHub pages were used to deploy the site.</p>
