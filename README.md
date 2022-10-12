@@ -21,7 +21,7 @@ A history based website displaying how programming languages and computational c
 <br>
 <br>
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600";>DESCRIPTION</h2>
-<p text-align: justify>Comp Meets Codes is a website developed broadly for students, computational research enthusiasts and IT application enthusiasts. Website discusses the topic of Structural evolution in Chemistry and  Programming Language evolution in Computers. Thus, it would be appealing to students and researchers with a biological/chemical as well as a computational background. Topics are planned to be continuously expanded and open for contributions from the community. 
+<p text-align: justify>Chem Meets Codes is a website developed broadly for students, computational research enthusiasts and IT application enthusiasts. Website discusses the topic of Structural evolution in Chemistry and  Programming Language evolution in Computers. Thus, it would be appealing to students and researchers with a biological/chemical as well as a computational background. Topics are planned to be continuously expanded and open for contributions from the community. 
 </p>
 <br>
 <br>
@@ -57,6 +57,18 @@ Font-family= Roboto Condensed:400,700 for all headings.
 <p>To model the webpages and to better design the User Interfaces, Wireframes were created for the website using <a href="https://balsamiq.com/"> Balsamiq</a>.</p>
 <img src= "assets/docs/Balsamic_wireframe.png">
 <br>
+
+<h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">DEPLOYMENT</h2>
+<p> GitHub pages were used to deploy the site.</p>
+<p>The steps to activate Github pages:</p>
+<ul>
+    <li>Navigate to the <i>Settings</i> tab in the GitHub repository.</li>
+    <li>Navigate to the 'Pages' tab on the left of the page.</li>
+    <li>Go to the 'Build and deployment' section, select 'Deploy from a branch' in the <i>source</i> dropdown.</li>
+    <li>Select branch 'main' and click on 'Save'.</li>
+    Link generated: https://roshnavakkeel.github.io/Chem_Meets_Codes/index.html
+</ul>
+
 <br>
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">LIBRARIES AND PROGRAMS</h2>
 <ul>
@@ -71,24 +83,20 @@ Font-family= Roboto Condensed:400,700 for all headings.
 <p>To test compliance with HTML standards, the W3C Markup Validation Service was used. Here are the results for all files.</p>
 
 
-<h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">PROGRAMMING LANGUAGES</h3>
+<h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">CREDITS</h3>
+<ul>
+    <li> <a href="https://www.pexels.com/">Pexels for the cover image.</a></li>
+    <li>The fonts are imported from <a href="https://fonts.google.com/">Google Fonts</a>.</li>
+    <li>The icons in the footer, testimonials and services section were taken from <a href= "https://fontawesome.com/">FontAwesome</a>.</li>
+     <li>The video file was converted from .avi file to .mp4 file extension using <a href= "https://www.freeconvert.com/avi-to-mp4">FreeConvert</a>.</li>
+</ul>
+
+<h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">ACKNOWLEDGEMENTS</h3>
+<p>I would like to acknowledge the following people who have helped me along the way in completing my first milestone project:</p>
+<ul>
+    <li>My Mentor Jubril Akolade for his guidance, best suggestions and constant encouragement. </li>
+    <li>My fellow students for their company and encouragement. Special thanks to Kristyna Maulurova for all her kind support.</li>
+    <li>My tutors who helped me understand the concepts better.</li>
+</ul>
 
 
-
-
-<br>
-<a href="index.html">HOMEPAGE</a>
-Homepage is distributed into different sections. First section "Mission" talks about the aim of the website that is to ""
-The following sections are introductary sections of the the two giants Chemistry and Computers.
-<br>
-<a href="timeline.html">Timeline<a>
-<br>
-<a href="feedback.html">Feedback<a>
-
-<h3 style="font-style: 'Calibri';"><strong>Homepage</strong></h2>
-
-
-
-
-
-<p></p>
