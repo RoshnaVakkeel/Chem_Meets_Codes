@@ -279,6 +279,7 @@ video {
 #chem-comp-timeline p {
     text-align: justify;
     width: 90%;
+    margin-left: 45px;
 }
 
 #chem-comp-timeline img {
@@ -295,6 +296,7 @@ video {
 #coding-timeline p {
     text-align: justify;
     width: 90%;
+    margin-left: 45px;
 }
 
 #coding-timeline img {
