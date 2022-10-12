@@ -67,7 +67,10 @@ Font-family= Roboto Condensed:400,700 for all headings.
     <li>Google Dev Tools - To debug, troubleshoot and test features and adjust property values. Using the Lighthouse extension installed in Chrome Browser, the performance report was generated.</li>
 </ul>
 <br>
-<h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">TESTING</h2>
+<h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">VALIDATION AND TESTING</h2>
+<p>To test compliance with HTML standards, the W3C Markup Validation Service was used. Here are the results for all files.</p>
+
+
 <h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">PROGRAMMING LANGUAGES</h3>
 
 

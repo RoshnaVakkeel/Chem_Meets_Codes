@@ -1,3 +1,4 @@
+@import url('https://fonts.googleapis.com/css2?family=Cabin&family=Roboto+Condensed&display=swap');
 
 * {
     margin: 0;
@@ -5,9 +6,8 @@
     border: 0;
 }
 
-
 body {
-    font-family: 'Cabin', Sans-Serif;
+    font-family: 'Cabin', sans-serif;
     color: #3a3a3a;
     font-Size: 16px;
 }
@@ -15,7 +15,7 @@ body {
 h1,
 h2,
 h3 {
-    font-family: 'Roboto Condensed', Sans-Serif;
+    font-family: 'Roboto Condensed', sans-serif;
     font-Size: 35px;
     text-transform: uppercase;
     letter-spacing: 2px;
@@ -338,29 +338,40 @@ p {
 }
 
 #interest {
-    inline-size: 30px;
+    justify-content: center;
+    padding: 20px;
+    align-items: center;
+    display: inline-flex;
 }
 
 #informative {
-    inline-size: 30px;
-    margin-bottom: 20px;
+    justify-content: center;
+    padding: 20px;
+    align-items: center;
+    display: inline-flex;
 }
 
-#suggestions {
+#suggestions1 {
     border: 1px solid #999999;
-    width: 80%;
-    margin: 5px 0;
+    width: 95%;
     padding: 3px;
 }
 
 #satisfaction {
-    inline-size: 30px;
-    margin-bottom: 20px;
+    justify-content: center;
+    padding: 20px;
+    align-items: center;
+    display: inline-flex;
 }
-
+#suggestions2 {
+    border: 1px solid #999999;
+    width: 95%;
+    padding: 3px;
+}
 #submit {
     font-size: 1.2em;
     color: rgb(11, 11, 100);
+    margin: 10px;
     border: 2px solid black;
 }
 

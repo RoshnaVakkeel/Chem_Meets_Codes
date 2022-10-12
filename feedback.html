@@ -38,39 +38,45 @@
         </p>
     </div>
 
-    <form id="questions">
+    <form id="questions" action="https://formdump.codeinstitute.net/" method="POST">
         
-        <label for="visit-date"><p>When did you visit the website?</p></label>
+        <label for="visit-date">When did you visit the website?</label>
         <input type="date" id="visit-date" name="visit-date" required>
         <br>
         <br>
-
-        <label for="interest"><p>Did you find the website interesting?</p></label>
-        <input type="radio" id="interest" name="interesting?" required>Yes
-        <input type="radio" id="interest" name="interesting?" required>No
+        <div id="interest">
+            Do you find the website interesting?
+            <input type="radio" name = "interest-yes-no" value="yes"> Yes 
+            <input type="radio" name = "interest-yes-no" value="no"> No 
+        </div>
         <br>
+
+        <div id="informative">
+            Do you find the website informative?
+          <input type="radio" name="informative-yes-no" value="yes">Yes
+          <input type="radio" name="informative-yes-no" value="no">No
+        </div>
         <br>
 
-        <label for="informative"><p>Did you find the data informative?</p></label>
-        <input type="radio" id="informative" name="informative?" required>Yes
-        <input type="radio" id="informative" name="informative?" required>No
-
-        <label for="suggestions"><p>How do you feel upon visiting this site? Suggestions please:</p></label>
-        <textarea id="suggestions" name="add-suggestions" placeholder="How do you feel upon visiting this site?" rows="10" cols="80" required> 
+        <label for="suggestions1">How do you feel upon visiting this site? Suggestions please:</label>
+        <textarea id="suggestions1" name="add-suggestions" placeholder="How do you feel upon visiting this site?" rows="10" cols="80" required> 
         </textarea> 
+        <br>
 
+        <div id="satisfaction">
+            Do you feel satisfied with the content provided?
+            <input type="radio" name="satisfaction-yes-no" value="yes">Yes
+            <input type="radio" name="satisfaction-yes-no" value="no">No
+        </div>
+        <br>
 
-        <label for="satisfaction"><p>Are you satisfied with the data provided?</p></label>
-        <input type="radio" id="satisfaction" name="satisfied?" required>Yes
-        <input type="radio" id="satisfaction" name="satisfied?" required>No
-
-        <label for="suggestions"><p> Do you feel it helped you learn? Suggestions please:</p></label>
-        <textarea id="suggestions" name="add-suggestions" placeholder="Do you feel it helped you learn?" rows="10" cols="80"required> 
+        <label for="suggestions2"> Do you feel it helped you learn? Suggestions please:</label>
+        <textarea id="suggestions2" name="add-suggestions" placeholder="Do you feel it helped you learn?" rows="10" cols="80" required> 
         </textarea> 
         <br>
 
         <label for="submit"></label>
-        <input type="submit" id= "submit" value="Submit!" method= "POST">
+        <input type="submit" id= "submit" value="Submit!">
         
     </form>
 
