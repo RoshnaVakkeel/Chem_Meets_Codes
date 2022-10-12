@@ -445,4 +445,15 @@ p {
         height: auto;
         padding-left: 100px;
     }
+
+    #chem-comp-timeline p {
+        text-align: justify;
+        width: 90%;
+        margin-left: 0px;
+    }
+    #coding-timeline p {
+        text-align: justify;
+        width: 90%;
+        margin-left: 0px;
+    }
 }
