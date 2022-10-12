@@ -94,7 +94,7 @@ Font-family= Roboto Condensed:400,700 for all headings.
 <p>To test compliance with HTML standards, the W3C Markup Validation Service was used. Here are the results for all files.</p>
 
 
-<h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">CREDITS</h3>
+<h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">CREDITS</h2>
 <ul>
     <li> <a href="https://www.pexels.com/">Pexels for the cover image.</a></li>
     <li>The fonts are imported from <a href="https://fonts.google.com/">Google Fonts</a>.</li>
@@ -102,7 +102,7 @@ Font-family= Roboto Condensed:400,700 for all headings.
      <li>The video file was converted from .avi file to .mp4 file extension using <a href= "https://www.freeconvert.com/avi-to-mp4">FreeConvert</a>.</li>
 </ul>
 
-<h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">ACKNOWLEDGEMENTS</h3>
+<h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">ACKNOWLEDGEMENTS</h2>
 <p>I would like to acknowledge the following people who have helped me along the way in completing my first milestone project:</p>
 <ul>
     <li>My Mentor Jubril Akolade for his guidance, best suggestions and constant encouragement. </li>
