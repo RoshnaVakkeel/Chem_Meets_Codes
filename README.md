@@ -6,15 +6,14 @@
 <br>
 
 <br>
-<br>
 The website attempts to give you a glimpse into how two totally unrelated fields find a synchrony, paving way for new fields to emerge. The emergence and evolution of Computers, its Programming Languages and internet has created many interdisciplinary fields in science today. The website walks you through the history of computer-aided drug design and how it came to existance.
 </i></h3>
 
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">CONCEPT</h2>
 <p><strong>CHEM MEETS CODES </strong> is much like my own story - "A Chemist learning to Code". 
-The word Chemist also a misnomer these days, while the area of research as a Chemist often spans several disciplines these days. My experience ranges from Synthetic Organic Chemistry, Bio-organic Chemistry, Supramolecular Chemistry, Biomaterials to Cell Biology. This shows that no single subject defines our field of study today. It is an era of <i>"Interdisciplinarity/ Interdisciplinary Studies"</i>. No research project exists today that doesn't tow the same line or speak one language. So are the Techies, so many different programming languages co-existing brilliantly to get to a higher goal usually termed <i>Website, App or Software</i>, just to name a few. Chemists use often without how so many powerful and brilliantly engineered softwares are built. And so is it with the Coders/ Programmers who are unaware of the scientific fields Computers and the languages built have transformed. 
+The word Chemist is a misnomer to define me, while the area of research as a Chemist often spans several disciplines these days. My experience ranges from Synthetic Organic Chemistry, Bio-organic Chemistry, Supramolecular Chemistry, Biomaterials to Cell Biology. This shows that no single subject defines our field of study today. It is an era of <i>"Interdisciplinarity/ Interdisciplinary Studies"</i>. No research project exists today that doesn't tow the same line or speak one language. So are the Techies, so many different programming languages co-existing brilliantly to get to a higher goal usually termed <i>Website, App or Software</i>, just to name a few. Chemists use often without how so many powerful and brilliantly engineered softwares are built. And so is it with the Coders/ Programmers who are unaware of the scientific fields Computers and the languages built have transformed. 
 <br>
-This website tries to bring the stories of two worlds together and attempts to show how their timelines progressed.
+This website tries to bring the stories of two worlds together and attempts to show how their timelines progressed. It is incomplete and a work in progress. Many more stories can be added to this. But let us learn some HISTORY together!!
 </p>
 
 <br>
