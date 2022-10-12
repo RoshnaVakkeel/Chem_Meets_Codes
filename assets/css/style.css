@@ -32,7 +32,15 @@ p {
     color: #252525;
 }
 
+/* unvisited link */
+    a:link {
+    color: rgba(20, 17, 199, 0.836);
+}
 
+/* visited link */
+    a:visited {
+    color: green;
+}
 
 /* headings and logo */
 
@@ -76,6 +84,11 @@ nav a {
 #menu a:hover {
     border-bottom: 1px solid black;
 }
+
+a:active {
+    background-color: pink;
+}
+
 
 #menu li {
     white-space: nowrap;
@@ -451,6 +464,7 @@ p {
         width: 90%;
         margin-left: 0px;
     }
+
     #coding-timeline p {
         text-align: justify;
         width: 90%;
