@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Oswald');
+@import url(https://fonts.googleapis.com/css?family=Cabin|Roboto:400,700|Roboto+Condensed:400,700);
 
 * {
     margin: 0;
@@ -7,14 +7,16 @@
 }
 
 body {
-    font-family: Lato, sans-serif;
+    font-family: 'Cabin', Sans-Serif;
     color: #3a3a3a;
+    font-Size: 16px;
 }
 
 h1,
 h2,
 h3 {
-    font-family: Oswald, sans-serif;
+    font-family: 'Roboto Condensed', Sans-Serif;
+    font-Size: 35px;
     text-transform: uppercase;
     letter-spacing: 2px;
     color: rgb(10, 10, 70);
@@ -22,8 +24,8 @@ h3 {
 }
 
 p {
+    font-family: 'Cabin', Sans-Serif;
     padding: 20px;
-    font-family: 'Calibri', sans-serif;
     font-size: 1em;
     line-height: 30px;
     text-align: justify;
@@ -99,13 +101,13 @@ li {
     background-position: center;
 }
 
-#cover-text,
-#cover-text h2 {
+#cover-text>h2 {
     color: #ffffff;
+    font-size: 1.1em;
+    text-align: justify;
 }
 
 #cover-text {
-    font-size: 80%;
     text-transform: uppercase;
     letter-spacing: 2px;
 
@@ -142,7 +144,6 @@ li {
 
 #intro p {
     padding: 20px;
-    font-family: 'Calibri', sans-serif;
     font-size: 1em;
     text-align: justify;
 }
@@ -150,11 +151,11 @@ li {
 .intro-heading {
     font-size: 80%;
     text-align: center;
+    padding: 5px;
 }
 
 #intro,
 p {
-    font-family: 'Calibri', sans-serif;
     font-size: 1.2em;
 }
 
@@ -367,12 +368,15 @@ p {
     #chem-intro {
         flex-direction: column;
     }
+
     #comp-intro {
         flex-direction: column;
     }
+
     #compchem-intro {
         flex-direction: column;
     }
+
     #impact {
         flex-direction: column;
     }
