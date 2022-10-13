@@ -144,7 +144,7 @@ The website was tested in Google Chrome, Mozilla Firefox, and Microsoft Edge. It
 </p>
 <p>Pictures from web:</p>
 <ul> 
-    <li>Cover_image_bkg.jpg (Cover image in Home section) was taken from  the<a href="https://www.pexels.com/de-de/foto/liebe-menschen-kunst-herz-7723534/" target="_blank">link</a> </li>
+    <li>Cover_image_bkg.jpg (Cover image in Home section) was taken from  the<a href="https://www.pexels.com/de-de/foto/liebe-menschen-kunst-herz-7723534/" target="_blank">link</a> from Pexels. </li>
     <li>CADD_to_Drug.png (Used in Computer Aided Drug Design section) was taken from  the<a href="https://javaconceptoftheday.com/history-of-programming-languages/" target="_blank">link</a> </li>
     <li>Programming_lang_timeline_timeline (Used in Timeline page) was taken from the <a href="https://www.researchgate.net/publication/325095935_Structure-Based_Drug_Design_Workflow" target="_blank">link</a> and modified by me. </li>
     <li>CADD_timeline (Used in Timeline page) was taken from the <a href="https://twitter.com/hideyoshifuji/status/1315670514438873088" target="_blank">link</a> and modified by me.</li>
