@@ -131,11 +131,22 @@ The website was tested in Google Chrome, Mozilla Firefox, and Microsoft Edge. It
 </ul>
 
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">CREDITS</h2>
+<h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">CONTENTS</h3>
 <ul>
     <li> <a href="https://www.pexels.com/">Pexels for the cover image.</a></li>
     <li>The fonts are imported from <a href="https://fonts.google.com/">Google Fonts</a>.</li>
     <li>The icons in the footer, testimonials and services section were taken from <a href= "https://fontawesome.com/">FontAwesome</a>.</li>
      <li>The video file was converted from .avi file to .mp4 file extension using <a href= "https://www.freeconvert.com/avi-to-mp4">FreeConvert</a>.</li>
+</ul>
+
+<h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">MEDIA</h3>
+<p>Many pictures in the Home page are developed by me using MS Office Powerpoint and have been saved as pictures as .png files such as, Logo.png, project_example.png (Used in Mission section), Molecules.png (Used in Chemical Structure section), Comp_intro.png (Used in Programming Language section), CADD_impact.png (Used in Impact section),etc.
+</p>
+<p>Pictures from web:</p>
+<ul> 
+    <li>CADD_to_Drug.png (Used in Computer Aided Drug Design section) was taken from  the<a href="https://javaconceptoftheday.com/history-of-programming-languages/" target="_blank">link</a> </li>
+    <li>CADD_timeline (Used in Computer Aided Drug Design section) was taken from the <a href="https://www.researchgate.net/publication/325095935_Structure-Based_Drug_Design_Workflow" target="_blank">link</a> and modified by me. </li>
+    <li></li>
 </ul>
 
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">ACKNOWLEDGEMENTS</h2>
