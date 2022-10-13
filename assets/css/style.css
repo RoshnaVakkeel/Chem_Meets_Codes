@@ -33,12 +33,12 @@ p {
 }
 
 /* unvisited link */
-    a:link {
+a:link {
     color: rgba(20, 17, 199, 0.836);
 }
 
 /* visited link */
-    a:visited {
+a:visited {
     color: green;
 }
 
@@ -160,7 +160,6 @@ li {
 
 #intro {
     padding: 20px;
-    /* width: 95%; */
     line-height: 20px;
     clear: both;
 }
@@ -259,7 +258,6 @@ video {
     width: 90%;
 }
 
-
 /* Footer */
 
 #footer {
@@ -331,7 +329,6 @@ video {
     margin: 0 auto;
     width: 90%;
 }
-
 
 /*Feedback Form*/
 form {
@@ -409,9 +406,6 @@ p {
 
 /* For large to medium screens sizes from 1200px wide and down */
 @media screen and (max-width: 1200px) {
-
-
-    #cover-text {}
 
     #chem-intro {
         flex-direction: column;
