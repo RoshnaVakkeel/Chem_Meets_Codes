@@ -69,17 +69,6 @@ Font-family= Roboto Condensed:400,700 for all headings.
     <li> Github automatically deploys my latest commit from the 'main' branch to the Github pages.</li>
 </ul>
 
-<h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">DEPLOYMENT</h2>
-<p> GitHub pages were used to deploy the site.</p>
-<p>The steps to activate Github pages:</p>
-<ul>
-    <li>Navigate to the <i>Settings</i> tab in the GitHub repository.</li>
-    <li>Navigate to the 'Pages' tab on the left of the page.</li>
-    <li>Go to the 'Build and deployment' section, select 'Deploy from a branch' in the <i>source</i> dropdown.</li>
-    <li>Select branch 'main' and click on 'Save'.</li>
-    Link generated: https://roshnavakkeel.github.io/Chem_Meets_Codes/index.html
-</ul>
-
 <br>
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">LIBRARIES AND PROGRAMS</h2>
 <ul>
@@ -124,8 +113,22 @@ Font-family= Roboto Condensed:400,700 for all headings.
 <br>
 
 <p> <strong>Result of Lighthouse performance check </strong>of Feedback page(feedback.html)</p>
-<img src= "assets/docs/feedback.png" style="width: 60%;">
+<img src= "assets/docs/Lighthouse_check_feedback.png" style="width: 60%;">
 <br>
+
+<h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">BROWSER COMPATIBILITY</h2>
+The website was tested in Google Chrome, Mozilla Firefox, and Microsoft Edge. It works well in all browsers.
+
+<h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">DEPLOYMENT</h2>
+<p> GitHub pages were used to deploy the site.</p>
+<p>The steps to activate Github pages:</p>
+<ul>
+    <li>Navigate to the <i>Settings</i> tab in the GitHub repository.</li>
+    <li>Navigate to the 'Pages' tab on the left of the page.</li>
+    <li>Go to the 'Build and deployment' section, select 'Deploy from a branch' in the <i>source</i> dropdown.</li>
+    <li>Select branch 'main' and click on 'Save'.</li>
+    Link generated: https://roshnavakkeel.github.io/Chem_Meets_Codes/index.html
+</ul>
 
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">CREDITS</h2>
 <ul>
