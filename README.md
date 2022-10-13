@@ -2,11 +2,10 @@
 
 <h1 style="font-style: 'Calibri'; text-decoration:underline;"><strong>CHEM MEETS CODES</strong></h1>
 
-<h3><i>A website for Scientists and Techies alike.. 
+<h3><i>A website for Scientists and Techies alike.. </h3>
 <br>
-This website attempts to give you a glimpse into how two totally unrelated fields find a synchrony, paving way for new fields to emerge. The emergence and evolution of Computers, its Programming Languages and internet has created many interdisciplinary fields in science today. The website walks you through the history of computer-aided drug design and how it came to existance.
-</i></h3>
-<br>
+<p>This website attempts to give you a glimpse into how two totally unrelated fields find a synchrony, paving way for new fields to emerge. The emergence and evolution of Computers, its Programming Languages and internet has created many interdisciplinary fields in science today. The website walks you through the history of computer-aided drug design and how it came to existance.
+</i></p>
 
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">PERSPECTIVE</h2>
 <p><strong>CHEM MEETS CODES </strong> is much like my own story - "A Chemist learning to Code". 
@@ -15,22 +14,50 @@ The word Chemist is a misnomer to define me, while the area of research as a Che
 This website tries to bring the stories of two worlds together and attempts to show how their timelines progressed. It is a work in progress and provides an introduction to the history of the two constantly progressing fields.
 </p>
 
-<br>
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">INTRODUCTION</h2>
 A history based website displaying how programming languages and computational chemistry evolved over the last decade. The website provides the details on the timeline of the new field "computer-aided drug design (CADD)" emerged and advanced with the programming language and Information Technology Evolution. And how it has impacted our lives, and its importance in the present and future. 
 <br>
-
+<br>
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600";>DESCRIPTION</h2>
 <p text-align: justify>Chem Meets Codes is a website developed broadly for students, computational research enthusiasts and IT application enthusiasts. Website discusses the topic of Structural evolution in Chemistry and  Programming Language evolution in Computers. Thus, it would be appealing to students and researchers with a biological/chemical as well as a computational background. Topics are planned to be continuously expanded and open for contributions from the community. 
 </p>
 <br>
 
-<h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">DESIGN</h2>
-<h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">WEBSITE STRUCTURE</h3>
+<h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">WEBSITE FEATURES</h2>
 <p>The website features three webpages (can be found in the navigation menu featured on the upper right hand corner of each page). First page is <a href="index.html">Homepage</a>, which is also the landing page. As it is a history based website, another webpage featuring <a href="timeline.html">Timeline</a> is included. As this is an attempt to bring two mega giants of fields together. This website has a scope of contantly to be updated, which is enormous. That is why a third webpage <a href="feedback.html">Feedback</a> is included. Visitors to the website can enter their feedback and comments, referring to which further updates can be regularly included in the website.
 </p>
 <br>
+<h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">HOME</h3>
+<p>The homepage has logo to the left, navigation menu bar at the top right corner. The navigation links connect to the different pages on the website.</p>
+<p>  Appearance on Desktop:</p>
+<img src= "assets/docs/homepage_desktop.png" style= "width: 80%;">
+<p>  Appearance on Phone:</p>
+<img src= "assets/docs/homepage_phone.png" style= "width: 30%;">
+<p>The homepage contains introductary sections to different topics. It contains clickable links to many websites.</p>
+<p>  Each page also contains a footer with links to different social media platorm to connect with me. There are links to linkedin, twiter and facebook.</p>
+<img src= "assets/docs/footer.png" style= "width: 80%;">
+<br>
 
+<h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">TIMELINE</h3>
+<p>Similar to homepage, timeline page has has logo to the left, navigation menu bar at the top right corner. The navigation links connect to the different pages on the website.</p>
+<p>  Appearance on Desktop:</p>
+<img src= "assets/docs/timeline_desktop.png" style= "width: 80%;">
+<p>  Appearance on Phone:</p>
+<img src= "assets/docs/timeline_phone.png" style= "width: 30%;">
+<p>The timeline page provides a glimpse into the last decades developments. It also contains a section: Interesting References with links for the readers to dig deeper into history.</p>
+<br>
+
+<h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">FEEDBACK</h3>
+<p>Feedback page provides site users and visitors to give their valuable feeback in a form. Users can enter details such as, their date of visit, interests and how informative was the website to them. </p>
+<p>  Appearance on Desktop:</p>
+<img src= "assets/docs/feedback_desktop.png" style= "width: 80%;">
+<p>  Appearance on Phone:</p>
+<img src= "assets/docs/feedback_phone.png" style= "width: 30%;">
+<p>There is a Submit button provided at the bottom of the form. Users can enter the details and submit.</p>
+<img src= "assets/docs/feedback_submit.png" style= "width: 80%;">
+
+
+<h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">DESIGN</h2>
 <h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">LOGO IMAGE</h3>
 <p>Logo and the image features the codes create the softwares that facilitate the design of modern day drugs. The monitor or a desktop suggests that all the planning and design happens inside a computer,</p>
 <img src= "assets/images/Logo.png" style= "width: 50%;">
@@ -41,7 +68,7 @@ Google Fonts was used for the following fonts: was used for the following fonts:
 Font-family= Cabin, ffor all the paragraphs and normal text.
 Font-family= Roboto Condensed:400,700 for all headings.
 <br>
-
+<br>
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">RESPONSIVE DESIGN</h2>
 <ul>
     <li>The layout Home/index.html utilises Flex styling for responsiveness.</li>
