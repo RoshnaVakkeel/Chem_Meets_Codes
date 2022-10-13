@@ -90,14 +90,42 @@ Font-family= Roboto Condensed:400,700 for all headings.
     <li>Google Dev Tools - To debug, troubleshoot and test features and adjust property values. Using the Lighthouse extension installed in Chrome Browser, the performance report was generated.</li>
 </ul>
 <br>
-<h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">VALIDATION AND TESTING</h2>
+
+<h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">VALIDATION</h2>
+<h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">HTML</h3>
 <p>To test compliance with HTML standards, the <a href= "https://validator.w3.org/">W3C Markup Validation Service</a> was used. </p>
-<p><a href= "file:///D:/CODE%20INSTITUTE%20course/Portfolio%20Project%201%20HTML%20CSS/FINAL%20FILES/FINAL%20Validation%20check/W3C_CSS_check.html">Result of CSS validation</p>
 
+<p> <strong>Result of HTML Home page validation (index.html) validation</strong>: No errors found.</p>
+<img src= "assets/docs/index_html_W3C_check.png" style="width: 60%;" >
+<br>
+<p> <strong>Result of HTML Timeline page validation(timeline.html) validation</strong>: No errors found.</p>
+<img src= "assets/docs/timeline_html_W3C_check.png" style="width: 60%;" >
+<br>
+<p> <strong>Result of HTML Feedback page validation(feedback.html) validation</strong>: No errors found.</p>
+<img src= "assets/docs/feedback_html_W3C_check.png" style="width: 60%;" >
+<br>
 
+<h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">CSS</h3>
+<p>To test compliance with HTML standards, the <a href= "https://jigsaw.w3.org/css-validator/">W3C CSS Validation Service - Jigsaw</a> was used. </p>
+<br>
+<p> <strong>Result of CSS validation</strong>: No errors found.</p>
+<img src= "assets/docs/CSS_W3C_check.png" style="width: 60%;" >
+<br>
 
+<h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">TESTING</h2>
+<p>To test the performance, quality, and correctness of your web pages, <a href= "https://chrome.google.com/webstore/detail/lighthouse/blipmdconlkpinefehnmjammfjpmpbjk?hl=en">Lighthouse</a> chrome extension tool was used. </p>
 
+<p> <strong>Result of Lighthouse performance check </strong>of Home page(index.html)</p>
+<img src= "assets/docs/Lighthouse_check_index.png" style="width: 60%;">
+<br>
 
+<p> <strong>Result of Lighthouse performance check </strong>of Timeline page(timeline.html)</p>
+<img src= "assets/docs/Lighthouse_check_timeline.png" style="width: 60%;">
+<br>
+
+<p> <strong>Result of Lighthouse performance check </strong>of Feedback page(feedback.html)</p>
+<img src= "assets/docs/feedback.png" style="width: 60%;">
+<br>
 
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">CREDITS</h2>
 <ul>
