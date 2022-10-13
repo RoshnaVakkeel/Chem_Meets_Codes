@@ -160,7 +160,7 @@ The website was tested in Google Chrome, Mozilla Firefox, and Microsoft Edge. It
 <h2 style="font-style: 'Calibri', sans-serif; font-weight: 600">CREDITS</h2>
 <h3 style="font-style: 'Calibri', sans-serif; font-weight: 600">CONTENTS</h3>
 <ul>
-    <li> <a href="https://www.pexels.com/">Pexels for the cover image.</a></li>
+    <li> <a href="https://www.pexels.com/">Pexels</a> for the cover image.</li>
     <li>The fonts are imported from <a href="https://fonts.google.com/">Google Fonts</a>.</li>
     <li>The icons in the footer, testimonials and services section were taken from <a href= "https://fontawesome.com/">FontAwesome</a>.</li>
      <li>The video file was converted from .avi file to .mp4 file extension using <a href= "https://www.freeconvert.com/avi-to-mp4">FreeConvert</a>.</li>
