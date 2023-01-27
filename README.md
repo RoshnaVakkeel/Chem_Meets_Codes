@@ -1,6 +1,6 @@
-
-
 <h1 style="font-style: 'Calibri'; text-decoration:underline;"><strong>CHEM MEETS CODES</strong></h1>
+
+Live Site can be found [here](https://roshnavakkeel.github.io/Chem_Meets_Codes/)
 
 <h3><i>A website for Scientists and Techies alike.. </h3>
 <br>
